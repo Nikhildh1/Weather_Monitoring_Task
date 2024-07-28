@@ -1,0 +1,5 @@
+com\example\AlertManagerTest.class
+com\example\WeatherDataStorageTest.class
+com\example\WeatherDataFetcherTest.class
+com\example\WeatherDataProcessingIntegrationTest.class
+com\example\WeatherDataProcessorTest.class

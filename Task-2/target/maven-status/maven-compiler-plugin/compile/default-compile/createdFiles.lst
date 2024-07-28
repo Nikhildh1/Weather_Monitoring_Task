@@ -1,0 +1,8 @@
+com\example\WeatherDataFetcher.class
+com\example\VisualizationManager.class
+com\example\WeatherDataProcessor.class
+com\example\WeatherDataScheduler.class
+com\example\AlertManager.class
+com\example\DailyWeatherSummary.class
+com\example\WeatherDataStorage.class
+com\example\WeatherDataScheduler$1.class
